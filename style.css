@@ -2,4 +2,16 @@ body{
     font-family: "Anton SC", sans-serif;
 background-color: brown
 color:black
-margin:0px}
+margin:0px
+margin-bottom: 100px;
+
+}
+.Chamada{
+    background:black;
+    display:flex;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+
