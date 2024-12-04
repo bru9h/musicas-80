@@ -4,7 +4,6 @@ background-color: brown
 color:black
 margin:0px
 margin-bottom: 100px;
-
 }
 .Chamada{
     background:black;
@@ -12,6 +11,35 @@ margin-bottom: 100px;
     justify-content: center;
     padding-top: 80px;
     padding-bottom: 80px;
-    
 }
+header{
+    color: black;
+    font-size: 35px;
+    border-bottom: 3px solid azure;
+    padding: 20px;
+}
+.Chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size: 36px;
+}
+.categoria{
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.categoria-video img{
+  display: flex;
+  overflow-x: auto;  
+  gap: 10px;
 
+}
+.categoria-video img{
+    height: 200px;
+    opacity: 0.5;
+}
+.categoria-video img{
+    opacity: 1.0;
+    border: 3px solid purple;
+}
